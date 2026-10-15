@@ -1,6 +1,6 @@
 ## Hello, my name is Thay and I'm a full-stack software engineer
 
-##### I spent 5+ years at Barclays as a DevOps engineer, building the pipelines that got compliance software safely into production. Now I build full-stack websites for small businesses that want to grow. I build them the way I built pipelines: tested, automated, and made to hold up under real traffic.
+#### I spent 5+ years at Barclays as a DevOps engineer, building the pipelines that got compliance software safely into production. Now I build full-stack websites for small businesses that want to grow. I build them the way I built pipelines: tested, automated, and made to hold up under real traffic.
 
 ### I’m currently working on ...
 ##### Currently: Software Engineer at Resilient Coders, building client sites and leading code reviews
